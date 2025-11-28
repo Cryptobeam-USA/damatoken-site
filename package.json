@@ -1,0 +1,14 @@
+{
+  "name": "damatoken-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo \"TODO: wire dev server for damatoken-site\"",
+    "build": "echo \"TODO: build step for damatoken-site\"",
+    "start": "echo \"TODO: start app for damatoken-site\""
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
